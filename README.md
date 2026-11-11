@@ -2,16 +2,27 @@
   <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png" alt="Header">
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Luiss2080&label=Visitas&color=0e75b6&style=flat" alt="views" />
   <img src="https://img.shields.io/github/followers/Luiss2080?label=Seguidores&style=social" alt="followers" />
   <img src="https://img.shields.io/badge/Enfoque-FullStack-brightgreen?style=flat" alt="focus" />
 </p>
 
+<h2 align="center">
+  🚧 Actualmente trabajando en
+</h2>
+
+<p align="center">
+  <b>Los Castores</b> 🥟 — plataforma web de pedidos online (menú, carrito, checkout) y back-office con ~26 módulos de gestión, para una salteñería en Santa Cruz de la Sierra.<br>
+  <sub>React · Vite · Tailwind CSS · Node.js · Express · Prisma · MySQL</sub>
+</p>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" />
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px" />
   Tecnologías & Herramientas
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 </h2>
@@ -23,54 +34,20 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" />
-  Estadísticas de GitHub
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-</h2>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luiss2080&theme=radical" width="98%" alt="Profile Summary" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Luiss2080&theme=radical" width="49%" alt="Repos Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Luiss2080&theme=radical" width="49%" alt="Most Commit Language" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Luiss2080&theme=radical" width="49%" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Luiss2080&theme=radical&utcOffset=-4" width="49%" alt="Productive Time" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luiss2080&theme=radical&hide_border=true&background=0D1117&stroke=0D1117&ring=FF1CF7&fire=FF1CF7&currStreakLabel=FF1CF7" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Luiss2080&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF1CF7&icon_color=FF1CF7&text_color=FFFFFF&count_private=true" width="49%" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" />
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px" />
   Logros de GitHub
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="40">
 </h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Luiss2080&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" width="100%" alt="Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=Luiss2080&theme=radical&no-frame=true&no-bg=true&row=2&column=4" width="98%" alt="GitHub Trophies" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+
 <h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" />
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px" />
   Conecta Conmigo
   <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="40" />
 </h2>
@@ -113,11 +90,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  
+
 ### ⭐ Si te gustó mi perfil, dale una estrella a mis repositorios ⭐
 
-**Hecho con ❤️ por Luis Rocha | 2025**
+*Hecho con ❤️ por Luis Rocha | 2025*
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=90&section=header&text=Full_Stack_Developer()&fontSize=22&fontColor=39FF14&fontAlignY=35&desc=Let's_build_something_amazing!&descSize=16&descAlignY=65&descColor=39FF14" width="80%" alt="Footer banner" />
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
